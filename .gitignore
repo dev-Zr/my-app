@@ -36,3 +36,5 @@ tailwind.config.ts.timestamp-*
 
 # Linux specific
 *~
+package-lock.json
+package.json
